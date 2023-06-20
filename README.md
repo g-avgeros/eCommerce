@@ -1,6 +1,6 @@
 # eCommerce
 
-Welcome to the eCommerce project! This is an online bookstore focused on programming books. The project utilizes MySQL for the database management system, Java for the backend, and Angular for the frontend.
+Welcome to the eCommerce project! This is an online eshop focused on programming books, mouse pads, coffee cups and luggage tags. The project utilizes MySQL for the database management system, Java for the backend, and Angular for the frontend.
 
 ## Table of Contents
 
@@ -15,9 +15,9 @@ Welcome to the eCommerce project! This is an online bookstore focused on program
 
 The eCommerce project offers the following features:
 
-- Browse and search for programming books.
-- View book details, including title, author, price, and description.
-- Add books to the shopping cart.
+- Browse and search for programming books, mouse pads, cups and luggage tags.
+- View product details, including title, price, and description.
+- Add products to the shopping cart.
 - Checkout and complete the purchase.
 
 ## Prerequisites
@@ -26,7 +26,6 @@ Before you can run this project locally, ensure that you have the following soft
 
 - Java Development Kit (JDK) 11 or later: [Download JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 - MySQL Server: [Download MySQL](https://dev.mysql.com/downloads/)
-- Node.js: [Download Node.js](https://nodejs.org/en/download/)
 
 ## Installation
 
